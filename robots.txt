@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sathishvenkataraman.github.io/reference-wm4j5k/sitemap.xml
